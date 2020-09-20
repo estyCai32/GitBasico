@@ -1,0 +1,18 @@
+/* GIT= VERSIONADOR DE CODIGO, herramienta que nos ayuda a controlar
+ * las versiones.
+ * 
+ *  Git remote add: A donde van a apuntar mis actualizaciones
+ * 
+ *  COMMIT: 
+ *  
+ *  PUSH: Subir el contenido del git local con el git remoto
+ *  
+ *  PULL: Alreves de push, traer del git remoto al git local
+ *  
+ *  CLONAR: lo mismo que Pull, pero piso lo que tengo, en cambio en 
+ *  pull me traigo solo la diferencia
+ *  
+ *  
+ *  	
+ */
+	
